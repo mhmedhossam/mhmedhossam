@@ -64,6 +64,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
+
+
+
+<img src="https://raw.githubusercontent.com/mhmedhossam/mhmedhossam/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
