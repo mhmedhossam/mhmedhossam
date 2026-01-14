@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Mohamed Hossam<br><br>- 🔭 I’m working as a Flutter Developer, building clean and scalable mobile applications.<br>- 📚 I’m currently learning advanced Flutter concepts, Clean Architecture, and state management.<br>- ⚡ In my free time, I improve my coding skills, work on personal projects, and explore new technologies.</p>
+<p align="left">👋 Hi, I'm Mohamed Hossam<br><br>- 🔭 I’m working as a Flutter Developer, building clean and scalable mobile applications.<br>- 📚 I learned advanced Flutter concepts, Clean Architecture, and state management.<br>- ⚡ In my free time, I improve my coding skills, work on personal projects, and explore new technologies.</p>
 
 ###
 
